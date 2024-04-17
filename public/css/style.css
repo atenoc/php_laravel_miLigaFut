@@ -1,0 +1,20 @@
+.redondo {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 45px;
+  width: 45px;
+}
+
+.redondop {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+}
+
+.redondoPreview {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
